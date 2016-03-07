@@ -2,6 +2,7 @@ name: eforcetransit
 favicon: null
 layout_spectrum: 0.5573425882030278
 typography_spectrum: 0.33462736289948225
+title: eForce Transit Fare Enforcement Software
 cta:
   domain: null
   bucket: null
