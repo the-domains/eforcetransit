@@ -1,0 +1,28 @@
+name: eforcetransit
+favicon: null
+layout_spectrum: 0.5573425882030278
+typography_spectrum: 0.33462736289948225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7624867546837777
+  lightness: 0.921205461025238
+  saturation: 0.3662247024476528
+  rhythmicContrast: 0.029324169270694256
+purpose: []
